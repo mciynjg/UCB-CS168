@@ -1,0 +1,10 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Windows metadata sidecar files
+*:Zone.Identifier
+
+# CS168 proj3 generated packet captures
+cs168-sp25-proj3-transport/ext/cs168p2/*.pcap
+cs168-sp25-proj3-transport/ext/cs168p2/trace/
